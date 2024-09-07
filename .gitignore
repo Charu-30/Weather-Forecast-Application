@@ -1,0 +1,2 @@
+#ignore dest directory where build files are stored
+dest/
