@@ -29,6 +29,7 @@ Users can search for weather information by city name, use their current locatio
 
 1. **API Key**: 
    Replace your_api_key in the app.js file with your own API key from the weather service provider.
+
    const API_KEY = 'your_api_key';  // Replace with your Weather API key
 
 # Usage
@@ -44,7 +45,7 @@ Users can search for weather information by city name, use their current locatio
 
 # Contact
 - **Author**: Charu Mangla
-- **GitHub**: Charu-30
+- **GitHub**: https://github.com/Charu-30
 - **Email**: charumangla432@gmail.com
 
 
