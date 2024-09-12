@@ -37,14 +37,14 @@ Users can search for weather information by city name, use their current locatio
 3. **View Recent Cities**: Select a city from the recent cities dropdown to update the weather and forecast data.
 
 # Screenshots
-
+  ![Screenshot (7)](https://github.com/user-attachments/assets/52a995ad-1958-46a9-a59d-5fa801f04547)
 
 # License
   This project is licensed under the MIT License. See the LICENSE file for details.
 
 # Contact
-  Author: Charu Mangla
-  GitHub: Charu-30
-  Email: charumangla432@gmail.com
+- **Author**: Charu Mangla
+- **GitHub**: Charu-30
+- **Email**: charumangla432@gmail.com
 
 
