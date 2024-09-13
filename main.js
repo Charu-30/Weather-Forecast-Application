@@ -19,6 +19,7 @@ let cities= JSON.parse(localStorage.getItem('cities')) || [];
 
 // Fucntion to update the recent cities in the datalist
 function updateRecentCities(){
+    // console.log(recentCities);
     recentCities.innerHTML='';
     if(cities.length>0){
         cities.forEach(city=>{
@@ -90,7 +91,7 @@ function displayForecast(data){
 function fetchWeatherData(city){
     fetch(`${API_URL}?q=${city}&appid=${API_KEY}`)
         .then(response=>{
-            if(!response.ok) throw alert('Error in fetching data from API');
+            if(!response.ok) throw alert('Invalid location, please enter the correct city name');
             return response.json();
         })
         .then(data=>{
