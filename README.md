@@ -40,6 +40,9 @@ Users can search for weather information by city name, use their current locatio
 # Screenshots
   ![Screenshot (7)](https://github.com/user-attachments/assets/52a995ad-1958-46a9-a59d-5fa801f04547)
 
+# Demo
+  Check out the live demo here: https://charu-weather-forecast-app.netlify.app/
+
 # Contact
 - **Author**: Charu Mangla
 - **GitHub**: https://github.com/Charu-30
